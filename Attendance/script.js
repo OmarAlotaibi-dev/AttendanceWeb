@@ -10,7 +10,6 @@ function addToList() {
     return;
   } 
   
-
   
   const entry = { name, date, checkIn, checkOut, supervisor };
   attendanceList.push(entry);
