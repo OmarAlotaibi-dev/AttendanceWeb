@@ -7,8 +7,7 @@ A lightweight browser-based app to track **check-in / check-out** with date & ti
 ## ✨ Features
 - Check-in / Check-out with timestamp
 - Auto-calculated session duration (HH:mm)
-- Export **PDF** (html2canvas + jsPDF)
-- Export **CSV** (FileSaver.js)
+- Export **PDF** 
 - Works fully offline in the browser
 
 ## 🧰 Tech
@@ -19,10 +18,7 @@ A lightweight browser-based app to track **check-in / check-out** with date & ti
 - **Day.js** for robust date/time formatting
 
 ## ▶️ How to Run
-1. Download or clone this repo.
-2. Open `index.html` in any modern browser.
-3. Click **Check In** / **Check Out**.  
-4. Click **Export PDF** or **Export CSV** to download records.
+click on this link visit this link: https://omaralotaibi-dev.github.io/AttendanceWeb/Attendance/index.html 
 
 
 
