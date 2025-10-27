@@ -18,7 +18,7 @@ A lightweight browser-based app to track **check-in / check-out** with date & ti
 - **Day.js** for robust date/time formatting
 
 ## ▶️ How to Run
-click on this link visit this link: https://omaralotaibi-dev.github.io/AttendanceWeb/Attendance/index.html 
+click on this link: https://omaralotaibi-dev.github.io/AttendanceWeb/Attendance/index.html 
 
 
 
